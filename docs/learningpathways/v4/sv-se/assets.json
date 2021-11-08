@@ -9458,5 +9458,16 @@
     "Source": "Atea",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "f865866d-a017-44a3-b065-d4ce762c046c",
+    "Title": "Atea Hanterad Arbetsplats fortsättning",
+    "Description": "",
+    "Url": "https://yonas101.github.io/LearningPathwaysAtea?embed=true",
+    "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
+    "SubjectId": "",
+    "Source": "Atea",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
