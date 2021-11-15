@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-comfort-331913",
+  "private_key_id": "49ffa59f4d28b357610373bad65f7b2c5f3fd443",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnWpObkb08n49n\nxsE0uQ6eQZXwqhk/x8jvkff2Dfi8oGwAIF7Zn6ubGQgUfdb0ah55JEbXHJuiX8Xv\nKkHdtyhAbL30pgV/Fr8e85ciztUwORVyBHII/own5h/cs98lqxUrfe98AtrObH6p\nbrVT68Qwv+t5Br6YCNhKj3yS5TOf9/zQ7TQfFI7Iqic4HYQUgJ8wV13JM71b3jk9\nAFVxylV7scwe8RkzpZa1vBgC4f8r4fBfmJaLhOHHQ7HhUXoecyQrHx6wp9L5OP04\nPARMT08RKrV6zzr/P+xtBdnLg/Ov6fQFz/BqLuBY8vHxDODklUAYoCqHx1lvBMHq\nTneRFJL9AgMBAAECggEADddpkMr27uzB2zhesk9hqeMB9X/VavIeyKUW8DMmIOXC\nIP2MaBfzGnbGyrkWE6zePIXsqliA99Gk3jvYFZrTObGKFtIPb3w7Dk02hsgQF7cK\nSB3y15MZa6hhIhYqF+RknG5ZUHVaUbXlVk/5hTQhYSh9H4tYWAdClQzKkHS5YRrV\nq+ZqczbcTJv40VZRsuYYmODa6frO9Wn9qSWtJUVRf2UVP83wmnZ8mc0VoRvCLFXu\n+kpRJwQgFIbcovuMOj61gz7Td3Wu/RwzGePjGwyxf8IiAE9wNt54asA+5dQXkZwY\nEwhijY4OmwBM+iLqKUqEyRtB5d4EiNp0yc1TyQUYCQKBgQDPUqfYBN5BDOJL6+hz\ni4ts+oYUqyuJgS6glC/beZKzxqrgycAnU4VkN66Xy2RDOsfVJkpTBk5FYkwshhHm\nacNu5iPZRfM2nY3sXSVmCF56moGOecWiGCghTC4c4tr4fhlzsDIQyJdc0F5Npw6K\nPIEJiHPD32hPcELKKIeYuFwCJQKBgQDOpYqhw0HMnoF0JKaNxYrbTXApVAsgM1Iz\nomUejIJ8DT8ndd1XonbZ7bx7qXChbh+dBpNt3W56Y+w2tUUFoKwVOZFQptMde81w\nPvdSSfrTDIcCZ4Xi/YCOoSbg6dNWqtWpBSD9E8o43av4St1Ou2khg0wwkyVXgvqs\n0fOBaFd5+QKBgDyn7B9RXU0e3d5kiL+1ZfdeXHgTlEtIlkG42T+XFAqw5zGZFTTs\nRKyLdfNHOHBK9EgySbB8uc2m8q5cE0ScUOdTQc3Bn2StN+adYeG2NR4dsiXjDqVb\n9/G1/g/Jd1MYYY3tUNiEN3SaKd0CMUjUZtRJLcVyyWvkZkYLEZDm71RZAoGAD1CT\ncqOe58RDgdEJiu49+TzG+DkjTfKfv/XkGpx9OyZcLNd+XPVMa6BD3MJU95HKw/9t\nw7Gqc2WeZvuOLvmWZ0hJ7bk/Yir/sbbo629SKHwAMXxsnsL82RU2ZWrO39hvV0Rr\nCnaCAS7khNU/i4s2ImaxqdPt64toepBgxJFwEjkCgYA0p2bAtDF9Ekgvdqqkvo/Q\nFETu2gf/hShRJLxODGof4lQ/8W/dpTct5eVKJG9Mh+oFqTk1JJe+LCc4cq9cfbXH\nU0APzsKDM1H0Bx8OujsxFBPBV3phdNid/ax+O+xzFEiO6S2UGoQ91Rw+kzPdoYQC\nrhlEfhpqBiAfTphd5KJCmg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yonas-126@sigma-comfort-331913.iam.gserviceaccount.com",
+  "client_id": "103254625684648923716",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yonas-126%40sigma-comfort-331913.iam.gserviceaccount.com"
+}

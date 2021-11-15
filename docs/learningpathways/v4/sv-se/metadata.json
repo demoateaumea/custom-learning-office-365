@@ -32,7 +32,7 @@
     },
     {
       "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
-      "Name": "Outlook for iOS and Android",
+      "Name": "Outlook för iOS och Android",
       "Subjects": []
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "Id": "8e068419-be9e-4a9b-8cc2-a4463df73d8b",
-      "Name": "OneDrive for Business",
+      "Name": "OneDrive för företag",
       "Subjects": []
     },
     {
       "Id": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
-      "Name": "Office for the web",
+      "Name": "Office för webben",
       "Subjects": []
     },
     {
@@ -81,7 +81,7 @@
       "Subjects": [
         {
           "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "Name": "Site Branding and Customization"
+          "Name": "Site Branding och anpassning"
         },
         {
           "Id": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
@@ -89,19 +89,19 @@
         },
         {
           "Id": "41128013-96b4-442f-b44f-a30b232a2782",
-          "Name": "Site Management"
+          "Name": "Site hantering"
         },
         {
           "Id": "839db42f-02e6-4d57-93c2-b061f8075c95",
-          "Name": "Site Sharing"
+          "Name": "Site delning"
         },
         {
           "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
-          "Name": "Site Creation"
+          "Name": "Site skapande"
         },
         {
           "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Site Planning"
+          "Name": "Site Planering"
         }
       ]
     },
@@ -111,11 +111,11 @@
       "Subjects": [
         {
           "Id": "3bd4b767-148f-4f53-a206-b42e9f3a73cd",
-          "Name": "PSTN Calling"
+          "Name": "PSTN Ringning"
         },
         {
           "Id": "615f17eb-2c5b-4494-8541-4304435ca306",
-          "Name": "Meetings"
+          "Name": "Möten"
         }
       ]
     },
@@ -166,7 +166,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "Kom igång",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -174,7 +174,7 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
+          "Name": "Första dagarna",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -183,7 +183,7 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
+          "Name": "Rekomenderade",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -194,7 +194,7 @@
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Scenarios",
+      "Name": "Scenario",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -202,7 +202,7 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
+          "Name": "Modern Arbetsplats",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -211,7 +211,7 @@
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
+          "Name": "Arbeta på distans",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -220,7 +220,7 @@
         },
         {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
+          "Name": "Säkerhet",
           "Image": "images/categories/LP-security-subcategory.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -229,7 +229,7 @@
         },
         {
           "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
+          "Name": "Hybrid arbetsplats",
           "Image": "images/categories/hybridwork.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -238,7 +238,7 @@
         },
         {
           "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
-          "Name": "Collaboration",
+          "Name": "Samarbete",
           "Image": "images/categories/Collaboration_Category.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -258,7 +258,7 @@
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Produkter",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -401,7 +401,7 @@
         },
         {
           "Id": "002ce882-04af-491f-9798-71c857606532",
-          "Name": "Office for the web",
+          "Name": "Office för webben",
           "Image": "images/categories/office_for_web.png",
           "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
           "SubjectId": "",
@@ -430,7 +430,7 @@
     },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Adoption Tools",
+      "Name": "Adoptionsverktyg",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -438,7 +438,7 @@
       "SubCategories": [
         {
           "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
-          "Name": "Tools",
+          "Name": "Verktyg",
           "Image": "images/categories/toolkit.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -447,7 +447,7 @@
         },
         {
           "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
-          "Name": "Admin Success Center",
+          "Name": "Admin Framgångscenter",
           "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -460,11 +460,11 @@
   "Audiences": [
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All"
+      "Name": "Alla"
     },
     {
       "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
-      "Name": "Champions/Trainer"
+      "Name": "Champions/Utbildare"
     },
     {
       "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
@@ -472,11 +472,11 @@
     },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-      "Name": "End User"
+      "Name": "Slutanvändare"
     },
     {
       "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
-      "Name": "Change Manager"
+      "Name": "Förändringsledare"
     },
     {
       "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
@@ -484,7 +484,7 @@
     },
     {
       "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Group Owner"
+      "Name": "Gruppägare"
     },
     {
       "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
@@ -496,15 +496,15 @@
     },
     {
       "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
-      "Name": "Content Editor"
+      "Name": "Innehållsredigerare"
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Name": "Webbplatssponsor"
     },
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Content Manager"
+      "Name": "Innehållshanterare"
     }
   ],
   "Sources": [
@@ -518,15 +518,15 @@
   "Levels": [
     {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-      "Name": "Beginner"
+      "Name": "Nybörjare"
     },
     {
       "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
-      "Name": "Intermediate"
+      "Name": "Mellannivå"
     },
     {
       "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
-      "Name": "Advanced"
+      "Name": "Avancerad"
     }
   ],
   "StatusTag": [
@@ -536,19 +536,19 @@
     },
     {
       "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
-      "Name": "Retired"
+      "Name": "Utgått"
     },
     {
       "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
-      "Name": "Retiring"
+      "Name": "Utgår"
     },
     {
       "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
-      "Name": "Updated"
+      "Name": "Updaterad"
     },
     {
       "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
-      "Name": "New"
+      "Name": "Ny"
     }
   ]
 }
