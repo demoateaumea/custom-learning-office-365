@@ -80,9 +80,9 @@ export class InitService implements IInitService {
         return local;
       } else {
         return {
-          "localeId": 1033,
-          "description": "English - United States",
-          "code": "en-us"
+          "localeId": 1053,
+          "description": "Swedish - Sweden",
+          "code": "sv-se"
         };
       }
     } catch (err) {
