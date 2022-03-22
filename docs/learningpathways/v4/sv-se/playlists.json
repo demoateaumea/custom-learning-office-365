@@ -218,6 +218,40 @@
     ]
   },
   {
+    "TechnologyId": "",
+    "SubjectId": "",
+    "StatusNote": "",
+    "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a47",
+    "Title": "Windows 11 - Första uppstart av dator",
+    "Image": "images/playlists/set_up_and_customize.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "Source": "Atea",
+    "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
+    "Description": "Första uppstart av dator",
+    "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
+    "Assets": [     
+      "f865866d-a017-44a3-b065-d4ce762c046d"
+    ]
+  },
+  {
+    "TechnologyId": "",
+    "SubjectId": "",
+    "StatusNote": "",
+    "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a47d",
+    "Title": "Windows 11 - Lägg till applikation från företagsportalen",
+    "Image": "images/playlists/set_up_and_customize.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "Source": "Atea",
+    "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
+    "Description": "Lägg till applikation från företagsportalen",
+    "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
+    "Assets": [     
+      "f865866d-a017-44a3-b065-d4ce762c046e"
+    ]
+  },
+  {
     "SubjectId": "",
     "StatusNote": "",
     "Id": "19a310b9-b50c-44ae-96e2-b30f17a38528",
