@@ -9469,5 +9469,27 @@
     "Source": "Atea",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "f865866d-a017-44a3-b065-d4ce762c046d",
+    "Title": "Windows 11 - Första uppstart av dator",
+    "Description": "",
+    "Url": "https://hf6vh7hh42m7cwebsite.azurewebsites.net/w11-forsta-uppstart-av-dator/",
+    "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
+    "SubjectId": "",
+    "Source": "Atea",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f865866d-a017-44a3-b065-d4ce762c046e",
+    "Title": "Windows 11 - Lägg till applikation från företagsportalen",
+    "Description": "",
+    "Url": "https://hf6vh7hh42m7cwebsite.azurewebsites.net/w11-lagg-till-applikation-fran-foretagsportalen/",
+    "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
+    "SubjectId": "",
+    "Source": "Atea",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
