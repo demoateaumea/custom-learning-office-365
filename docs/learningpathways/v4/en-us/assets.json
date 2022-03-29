@@ -9491,5 +9491,16 @@
     "Source": "Atea",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "f865866d-a017-44a3-b065-d4ce762c046f",
+    "Title": "Windows 11 - Återstallning av dator",
+    "Description": "",
+    "Url": "https://hf6vh7hh42m7cwebsite.azurewebsites.net/fardig-w11-aterstallning-av-dator/",
+    "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
+    "SubjectId": "",
+    "Source": "Atea",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
