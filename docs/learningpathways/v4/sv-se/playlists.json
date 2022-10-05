@@ -188,13 +188,13 @@
     "SubjectId": "",
     "StatusNote": "",
     "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a47c",
-    "Title": "Konfigurera Microsoft Authenticator appautentisering",
+    "Title": "Konfigurera Microsoft Authenticator",
     "Image": "images/playlists/Edge_Security.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "Source": "Atea",
     "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
-    "Description": "Konfigurera Microsoft Authenticator för appautentisering",
+    "Description": "Konfigurera Microsoft Authenticator för autentisering i M365",
     "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
     "Assets": [
       "f865866d-a017-44a3-b065-d4ce762c046b"      
@@ -228,7 +228,7 @@
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "Source": "Atea",
     "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
-    "Description": "Hur du navigerar i Windows 10?",
+    "Description": "Grundläggande information hur du navigerar i Windows 10",
     "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
     "Assets": [     
       "f865866d-a017-44a3-b065-d4ce762c046d"
@@ -245,7 +245,7 @@
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "Source": "Atea",
     "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
-    "Description": "Återställ din dator genom företagsportalen",
+    "Description": "Hur man återställer sin dator i Windows 10 genom företagsportalen",
     "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
     "Assets": [     
       "f865866d-a017-44a3-b065-d4ce762c046e"
@@ -256,13 +256,13 @@
     "SubjectId": "",
     "StatusNote": "",
     "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a47d",
-    "Title": "Windows 11 - Återstallning av dator",
+    "Title": "Windows 11 - Återställ dator i företagsportalen",
     "Image": "images/playlists/set_up_and_customize.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "Source": "Atea",
     "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
-    "Description": "Hur man återställer sin dator i Windows 11",
+    "Description": "Hur man återställer sin dator i Windows 11 genom företagsportalen",
     "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
     "Assets": [     
       "f865866d-a017-44a3-b065-d4ce762c046f"

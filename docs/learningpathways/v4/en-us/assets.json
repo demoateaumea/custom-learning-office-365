@@ -9450,7 +9450,7 @@
   },
   {
     "Id": "f865866d-a017-44a3-b065-d4ce762c046b",
-    "Title": "Configure Microsoft Authenticator appautentisering",
+    "Title": "Configure Microsoft Authenticator",
     "Description": "",
     "Url": "https://blobstorageha.blob.core.windows.net/$web/Konfigurera-Microsoft-Authenticator-appautentisering.html",
     "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
@@ -9494,7 +9494,7 @@
   },
   {
     "Id": "f865866d-a017-44a3-b065-d4ce762c046f",
-    "Title": "Windows 11 - Restore Computer",
+    "Title": "Windows 11 - Restore Computer from Companyportal",
     "Description": "",
     "Url": "https://blobstorageha.blob.core.windows.net/$web/Återställ-dator-i-företagsportalen.html",
     "TechnologyId": "58847f9a-3144-453e-a10e-bc1c00bc3faa",
