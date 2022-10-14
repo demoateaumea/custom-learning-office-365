@@ -273,16 +273,34 @@
     "SubjectId": "",
     "StatusNote": "",
     "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a474",
-    "Title": "Windows 11 - Återställ dator i företagsportalen",
+    "Title": "Windows 11 - Komma igång med ny dator",
     "Image": "images/playlists/set_up_and_customize.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
     "Source": "Atea",
     "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
-    "Description": "Hur man återställer sin dator i Windows 11 genom företagsportalen",
+    "Description": "Hur man kommer igång med sin dator i Windows 11",
     "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
     "Assets": [     
       "f865866d-a017-44a3-b065-d4ce762c046g"
+    ]
+  },
+  
+  {
+    "TechnologyId": "",
+    "SubjectId": "",
+    "StatusNote": "",
+    "Id": "a19e4916-4fbe-42e4-95b6-8e85cb12a475",
+    "Title": "Windows 10 - Komma igång med ny dator",
+    "Image": "images/playlists/set_up_and_customize.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "Source": "Atea",
+    "CatId": "a7f1ca95-e0eb-4715-b846-89fc8d2afa57",
+    "Description": "Hur man kommer igång med sin nya dator i Windows 10",
+    "StatusTagId": "42be48f6-1f82-4fda-a757-add2499677d9",
+    "Assets": [     
+      "f865866d-a017-44a3-b065-d4ce762c046h"
     ]
   },
   {
