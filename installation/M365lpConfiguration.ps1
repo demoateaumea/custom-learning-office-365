@@ -53,10 +53,10 @@ $clSite = "https://$TenantName.sharepoint.com/sites/$SiteCollectionName"
 try {
   # If Credentials were passed, try them
   if (-not [string]::IsNullOrWhitespace($Credentials)) {
-    Connect-PnPOnline -Url $clSite -Credentials $Credentials -ErrorAction Stop
+    Connect-PnPOnline -Url $clSite -Credentials $Credentials
   } else {
     # If not, prompt for authentication. This supports MFA
-    Connect-PnPOnline -Url $clSite -UseWebLogin -ErrorAction Stop
+    Connect-PnPOnline -Url $clSite -Interactive
   }
 }
 catch {
@@ -78,7 +78,7 @@ if ($AppCatalogAdmin) {
     
   try {
     # Test that user can write values to the App Catalog
-    Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://pnp.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop 
+    Set-PnPStorageEntity -Key MicrosoftCustomLearningCdn -Value "https://yonas101.github.io/custom-learning-office-365/learningpathways/" -Description "Microsoft 365 learning pathways CDN source" -ErrorAction Stop 
   }
   catch {
     # Get the username and 
@@ -104,7 +104,7 @@ if ($AppCatalogAdmin) {
 if ($SiteAdmin) { 
   # Get the app
   # Check for it at the tenant level first
-  $id = (Get-PnPApp | Where-Object -Property title -Like -Value "Microsoft 365 learning pathways").id 
+  $id = (Get-PnPApp | Where-Object -Property title -Like -Value "Microsoft 365 learning pathways").id
   if ($id -ne $null) { 
     # Found the app in the tenant app catalog
     # Install it to the site collection if it's not already there
@@ -119,13 +119,6 @@ if ($SiteAdmin) {
     # Delete pages if they exist. Alert user.
     $clv = Get-PnPListItem -List $sitePagesList -Query "<View><Query><Where><Eq><FieldRef Name='FileLeafRef'/><Value Type='Text'>CustomLearningViewer.aspx</Value></Eq></Where></Query></View>"
     if ($clv -ne $null) {
-      Write-Host "Found an existing CustomLearningViewer.aspx page. Deleting it."
-      # Renaming and moving to Recycle Bin to prevent potential naming overlap
-      Set-PnPListItem -List $sitePagesList -Identity $clv.Id -Values @{"FileLeafRef" = "CustomLearningViewer$((Get-Date).Minute)$((Get-date).second).aspx" }
-      Move-PnPListItemToRecycleBin -List $sitePagesList -Identity $clv.Id -Force
-    }
-    # Now create the page whether it was there before or not
-    $clvPage = Add-PnPClientSidePage "CustomLearningViewer" # Will fail if user can't write to site collection
     $clvSection = Add-PnPClientSidePageSection -Page $clvPage -SectionTemplate OneColumn -Order 1
     # Before I try to add the Microsoft 365 learning pathways web parts verify they have been deployed to the site collection
     $timeout = New-TimeSpan -Minutes 1 # wait for a minute then time out
@@ -136,6 +129,13 @@ if ($SiteAdmin) {
       if (Get-PnPAvailableClientSideComponents -page CustomLearningViewer.aspx -Component "Microsoft 365 learning pathways administration") {
         Write-Host "Microsoft 365 learning pathways web parts found"
         $WebPartsFound = $true
+      Write-Host "Found an existing CustomLearningViewer.aspx page. Deleting it."
+      # Renaming and moving to Recycle Bin to prevent potential naming overlap
+      Set-PnPListItem -List $sitePagesList -Identity $clv.Id -Values @{"FileLeafRef" = "CustomLearningViewer$((Get-Date).Minute)$((Get-date).second).aspx" }
+      Move-PnPListItemToRecycleBin -List $sitePagesList -Identity $clv.Id -Force
+    }
+    # Now create the page whether it was there before or not
+    $clvPage = Add-PnPClientSidePage "CustomLearningViewer" # Will fail if user can't write to site collection
         break
       }
       Write-Host "." -NoNewline

@@ -5,7 +5,7 @@ try {
   $oldPreference = $ErrorActionPreference
   $ErrorActionPreference = ‘stop’
   # verify the PnP cmdlets we need are installed
-  if (Get-Command Connect-PnPOnline ) {
+  if (Get-Command Connect-PnPOnline) {
     Write-Host "Found PnP Command"
     $NotFound = $false
   }
